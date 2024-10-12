@@ -16,6 +16,7 @@ body {
 }
 
 #demo {
+	visibility: hidden;
 	overflow: hidden;
 	position: relative;
 	width: 621px;
